@@ -1,7 +1,7 @@
 const BLOG = {
   title: '大橘官的精神角落',
   author: '大橘官',
-  email: 'duke@uniduke.ac.cn',
+  email: 'uniduke@163.com',
   link: 'https://uniduke.ac.cn',
   description: '聊聊生活撩撩猫',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
